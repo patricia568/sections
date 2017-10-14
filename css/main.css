@@ -16,6 +16,9 @@ a {
   text-decoration: none;
   color: #333;
   font-size: 1.5rem;
+  border-width: 5px;
+  border-radius: 5px;
+  border-color: #333;
 }
 
 a:hover {
