@@ -9,4 +9,9 @@ html {
 body {
   background-color: #eee9de;
   font-family: 'Lato';
+  line-height: 1.5;
+}
+
+h1 {
+
 }
