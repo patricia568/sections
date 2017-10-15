@@ -14,6 +14,10 @@ body {
   max-width: 25em;
 }
 
+h1, p {
+    width: 25em;
+}
+
 img {
   width: 100%;
 }
