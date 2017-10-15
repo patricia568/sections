@@ -14,12 +14,9 @@ body {
   max-width: 25em;
 }
 
-h1, p {
-    width: 25em;
-}
-
-img {
+.image {
   width: 100%;
+  vertical-align: center;
 }
 
 a {
