@@ -19,6 +19,7 @@ body {
   width: 100%;
   vertical-align: center;
   display: inline;
+  max-width: 25em;
 }
 
 a {
