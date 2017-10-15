@@ -12,11 +12,13 @@ body {
   line-height: 1.5;
   margin: 1.5rem;
   max-width: 25em;
+  display: inline;
 }
 
 .image {
   width: 100%;
   vertical-align: center;
+  display: inline;
 }
 
 a {
