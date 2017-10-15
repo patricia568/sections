@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  text-align: left;
 }
 
 *, *::before, *::after {
@@ -15,10 +16,10 @@ body {
   display: inline-block;
 }
 
-.image {
+img.image {
   width: 100%;
   vertical-align: center;
-  display: inline-block;
+  display: block;
   max-width: 25em;
   margin-left: auto;
   margin-right: auto;
