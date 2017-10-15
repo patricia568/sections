@@ -13,6 +13,10 @@ body {
   margin: 1.5rem;
 }
 
+img {
+  width: 100%;
+}
+
 a {
   text-decoration: none;
   color: #333;
